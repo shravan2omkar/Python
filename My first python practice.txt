@@ -1,0 +1,51 @@
+My first python practice
+
+[I 23:53:23.899 NotebookApp] Writing notebook server cookie secret to C:\Users\Shravan\AppData\Roaming\jupyter\runtime\notebook_cookie_secret
+[W 2023-03-14 23:53:40.827 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-03-14 23:53:40.828 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-03-14 23:53:40.842 LabApp] JupyterLab extension loaded from C:\Users\Shravan\anaconda3\lib\site-packages\jupyterlab
+[I 2023-03-14 23:53:40.843 LabApp] JupyterLab application directory is C:\Users\Shravan\anaconda3\share\jupyter\lab
+[I 23:53:40.866 NotebookApp] Serving notebooks from local directory: C:\Users\Shravan
+[I 23:53:40.867 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 23:53:40.867 NotebookApp] http://localhost:8888/?token=83f6df4ff457dee678149459deb29bb01d4d31d7ccdbc3f4
+[I 23:53:40.868 NotebookApp]  or http://127.0.0.1:8888/?token=83f6df4ff457dee678149459deb29bb01d4d31d7ccdbc3f4
+[I 23:53:40.868 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:53:40.966 NotebookApp]
+
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Shravan/AppData/Roaming/jupyter/runtime/nbserver-2064-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=83f6df4ff457dee678149459deb29bb01d4d31d7ccdbc3f4
+     or http://127.0.0.1:8888/?token=83f6df4ff457dee678149459deb29bb01d4d31d7ccdbc3f4
+[I 23:55:27.086 NotebookApp] Creating new notebook in
+[I 23:55:27.423 NotebookApp] Writing notebook-signing key to C:\Users\Shravan\AppData\Roaming\jupyter\notebook_secret
+[I 23:55:36.111 NotebookApp] Kernel started: a1f2b1b6-e668-475c-845e-4e2c117232c7, name: python3
+[I 23:57:35.290 NotebookApp] Saving file at /Untitled.ipynb
+C:\Users\Shravan\anaconda3\lib\site-packages\nbformat\__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+C:\Users\Shravan\anaconda3\lib\site-packages\notebook\services\contents\manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 23:59:35.286 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:00:15.284 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:01:36.010 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:03:07.464 NotebookApp] Copying Untitled.ipynb to
+[W 00:03:07.475 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 00:03:10.371 NotebookApp] Kernel started: bb749a0e-39f0-4a37-81f8-6403777075ad, name: python3
+[I 00:33:35.304 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:35:35.286 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:36:15.233 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:41:35.296 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:43:36.170 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:49:36.180 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:53:35.298 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:55:36.191 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:01:36.194 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:11:36.172 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:15:24.997 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:15:25.255 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:15:25.503 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:15:26.111 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:17:36.181 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:22:24.862 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:23:11.352 NotebookApp] Saving file at /Shravan First Python Practice Book.ipynb
+[I 01:23:12.949 NotebookApp] Saving file at /Shravan First Python Practice Book.ipynb
